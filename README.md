@@ -1,0 +1,1 @@
+This project leverages Random Forest with Explainable AI techniques to predict student dropout risk based on academic and engagement factors. It provides interpretable insights through feature importance, helping educators identify key drivers of student retention.
